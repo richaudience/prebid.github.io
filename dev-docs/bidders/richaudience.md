@@ -13,7 +13,6 @@ pbjs: true
 pbs: true
 schain_supported: true
 floors_supported: true
-pbjs_version_notes: removed in 9.0
 sidebarType: 1
 ---
 
